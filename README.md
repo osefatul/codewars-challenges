@@ -1,1 +1,3 @@
-codewars challanges I solved so far...
+# Codewars Challenges
+### Intro 
+codewars challanges I solved so far..
